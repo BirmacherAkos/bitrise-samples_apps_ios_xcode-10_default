@@ -1,6 +1,6 @@
 {
   "contributors": [""],
   "message": "Please sign the ",
-  "label": signed",
+  "label": "signed",
   "recheckComment": "recheck"
 }
